@@ -118,14 +118,14 @@ Tudo está na pasta [`listas/`](listas), separado por tipo e país. Os arquivos 
 
 Se esse trabalho ajudou você, considere fazer uma pequena doação via **Pix**:
 
-<p align="center"><img src="pix-qrcode.png" alt="QR Code Pix" width="260"></p>
+<p align="center"><img src="pix-qrcode.jpg" alt="QR Code Pix" width="260"></p>
 
 **Chave Pix (aleatória):** `14a754ca-01ed-403c-ac0f-3157a9fb4888`
 
 **Pix copia e cola:**
 
 ```
-00020126580014br.gov.bcb.pix013614a754ca-01ed-403c-ac0f-3157a9fb48885204000053039865802BR5915RICARDO SCHMIDT6006BRASIL62070503***63041683
+00020101021126730014br.gov.bcb.pix013614a754ca-01ed-403c-ac0f-3157a9fb48880211Doacao iptv5204000053039865802BR5915Ricardo Schmidt6009Sao Paulo62070503***63046156
 ```
 
 ⚠️ Atenção: <b>Todos os links de streams disponibilizados nas listas foram obtidos da internet. A comunidade apenas os organiza, disponibiliza e partilha. Não possuímos qualquer servidor, nem transmitimos ou reemitimos qualquer tipo de sinal</b>.
