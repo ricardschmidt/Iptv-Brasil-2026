@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 1" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport1.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY SPORT 1
+http://31.43.191.125:8080/restream/restream/56471
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 2" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport2.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY SPORT 2
+http://31.43.191.125:8080/restream/restream/56472
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 4" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport4.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY SPORT 4
+http://31.43.191.125:8080/restream/restream/56474
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 6" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport6.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY SPORT 6
+http://31.43.191.125:8080/restream/restream/56476
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 7" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport7.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY SPORT 7
+http://31.43.191.125:8080/restream/restream/56477
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY SPORT 9" tvg-logo="https://docdog.top/logo/countries/newzealand/skysport9.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY SPORT 9
+http://31.43.191.125:8080/restream/restream/56479
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP SKY NEWS" tvg-logo="https://docdog.top/logo/countries/newzealand/skynews.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP SKY NEWS
+http://31.43.191.125:8080/restream/restream/56480
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP JUICE TV" tvg-logo="https://docdog.top/logo/countries/newzealand/juicetv.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP JUICE TV
+http://31.43.191.125:8080/restream/restream/56481
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP FIRSTLIGHT" tvg-logo="https://docdog.top/logo/countries/newzealand/firstlighttv.png" group-title="OCEA | NEWZEALAND VIP",NZ: VIP FIRSTLIGHT
+http://31.43.191.125:8080/restream/restream/56482
+#EXTINF:-1 tvg-id="" tvg-name="NZ: VIP TVSN SHOPPING" tvg-logo="https://docdog.top/logo/countries/newzealand/VIPTVSNSHOPPING.jpg" group-title="OCEA | NEWZEALAND VIP",NZ: VIP TVSN SHOPPING
+http://31.43.191.125:8080/restream/restream/56483
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 1" tvg-logo="https:/docdog.top/logo/countries/beinsports1.png" group-title="OCEA | AUSTRALIA VIP",AU: BEIN SPORTS 1
+http://31.43.191.125:8080/restream/restream/25009
+#EXTINF:-1 tvg-id="" tvg-name="AU: Outdoor Channel" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Outdoor Channel
+http://31.43.191.125:8080/restream/restream/25010
+#EXTINF:-1 tvg-id="" tvg-name="AU: Love Nature" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: Love Nature
+http://31.43.191.125:8080/restream/restream/25011
+#EXTINF:-1 tvg-id="" tvg-name="AU: 7 FLIX" tvg-logo="https:/docdog.top/logo/countries/australia/7flix-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 7 FLIX
+http://31.43.191.125:8080/restream/restream/25012
+#EXTINF:-1 tvg-id="" tvg-name="AU: 7 MATE" tvg-logo="https:/docdog.top/logo/countries/australia/7mate-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 7 MATE
+http://31.43.191.125:8080/restream/restream/25013
+#EXTINF:-1 tvg-id="" tvg-name="AU: 7 TWO" tvg-logo="https:/docdog.top/logo/countries/australia/7two-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 7 TWO
+http://31.43.191.125:8080/restream/restream/25014
+#EXTINF:-1 tvg-id="" tvg-name="AU: 9 GEM" tvg-logo="https:/docdog.top/logo/countries/australia/nine-gem-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 9 GEM
+http://31.43.191.125:8080/restream/restream/25015
+#EXTINF:-1 tvg-id="" tvg-name="AU: 9 GO" tvg-logo="https:/docdog.top/logo/countries/australia/nine-go-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 9 GO
+http://31.43.191.125:8080/restream/restream/25016
+#EXTINF:-1 tvg-id="" tvg-name="AU: 9 LIFE" tvg-logo="https:/docdog.top/logo/countries/australia/nine-life-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 9 LIFE
+http://31.43.191.125:8080/restream/restream/25017
+#EXTINF:-1 tvg-id="" tvg-name="AU: 9 RUSH" tvg-logo="https:/docdog.top/logo/countries/australia/nine-rush-au.png" group-title="OCEA | AUSTRALIA VIP",AU: 9 RUSH
+http://31.43.191.125:8080/restream/restream/25018
+#EXTINF:-1 tvg-id="" tvg-name="AU: 10 BOLD" tvg-logo="" group-title="OCEA | AUSTRALIA VIP",AU: 10 BOLD
+http://31.43.191.125:8080/restream/restream/25019
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC NEWS" tvg-logo="https:/docdog.top/logo/countries/australia/abc-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ABC NEWS
+http://31.43.191.125:8080/restream/restream/25020
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC KIDS NATIONAL" tvg-logo="https:/docdog.top/logo/countries/australia/abc-kids-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ABC KIDS NATIONAL
+http://31.43.191.125:8080/restream/restream/25021
+#EXTINF:-1 tvg-id="" tvg-name="AU: ABC ME" tvg-logo="https:/docdog.top/logo/countries/australia/abc-me-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ABC ME
+http://31.43.191.125:8080/restream/restream/25022
+#EXTINF:-1 tvg-id="" tvg-name="AU: AUSTRALIA CHANNEL" tvg-logo="https:/docdog.top/logo/countries/australia/countrypic.png" group-title="OCEA | AUSTRALIA VIP",AU: AUSTRALIA CHANNEL
+http://31.43.191.125:8080/restream/restream/25023
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 2" tvg-logo="https:/docdog.top/logo/countries/beinsports2.png" group-title="OCEA | AUSTRALIA VIP",AU: BEIN SPORTS 2
+http://31.43.191.125:8080/restream/restream/25024
+#EXTINF:-1 tvg-id="" tvg-name="AU: BEIN SPORTS 3" tvg-logo="https:/docdog.top/logo/countries/beinsports3.png" group-title="OCEA | AUSTRALIA VIP",AU: BEIN SPORTS 3
+http://31.43.191.125:8080/restream/restream/25025
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 1" tvg-logo="https:/docdog.top/logo/countries/australia/espn-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ESPN 1
+http://31.43.191.125:8080/restream/restream/25026
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="https:/docdog.top/logo/countries/australia/espn-2-au.png" group-title="OCEA | AUSTRALIA VIP",AU: ESPN 2
+http://31.43.191.125:8080/restream/restream/25027
+#EXTINF:-1 tvg-id="" tvg-name="AU: EXPO CHANNEL" tvg-logo="https:/docdog.top/logo/countries/australia/expo-channel-au.png" group-title="OCEA | AUSTRALIA VIP",AU: EXPO CHANNEL
+http://31.43.191.125:8080/restream/restream/25028
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 501" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-cricket-501-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 501
+http://31.43.191.125:8080/restream/restream/25029
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 502" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-league-502-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 502
+http://31.43.191.125:8080/restream/restream/25030
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 503" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-503-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 503
+http://31.43.191.125:8080/restream/restream/25031
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 504" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-footy-504-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 504
+http://31.43.191.125:8080/restream/restream/25032
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 505" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-505-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 505
+http://31.43.191.125:8080/restream/restream/25033
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 506" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-506-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 506
+http://31.43.191.125:8080/restream/restream/25034
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 507" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-507-hd-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS 507
+http://31.43.191.125:8080/restream/restream/25035
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS NEWS" tvg-logo="https:/docdog.top/logo/countries/australia/fox-sports-news-au.png" group-title="OCEA | AUSTRALIA VIP",AU: FOX SPORTS NEWS
+http://31.43.191.125:8080/restream/restream/25036
+#EXTINF:-1 tvg-id="" tvg-name="AU: FUEL TV" tvg-logo="https:/docdog.top/logo/countries/fueltv.png" group-title="OCEA | AUSTRALIA VIP",AU: FUEL TV
+http://31.43.191.125:8080/restream/restream/25037
+#EXTINF:-1 tvg-id="" tvg-name="AU: RACING.COM" tvg-logo="https:/docdog.top/logo/countries/australia/racing-com-au.png" group-title="OCEA | AUSTRALIA VIP",AU: RACING.COM
+http://31.43.191.125:8080/restream/restream/25038
+#EXTINF:-1 tvg-id="" tvg-name="AU: REDBULL TV" tvg-logo="https:/docdog.top/logo/countries/redbulltv.png" group-title="OCEA | AUSTRALIA VIP",AU: REDBULL TV
+http://31.43.191.125:8080/restream/restream/25039
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS Sydney" tvg-logo="https:/docdog.top/logo/countries/sbs.png" group-title="OCEA | AUSTRALIA VIP",AU: SBS Sydney
+http://31.43.191.125:8080/restream/restream/25040
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS FOOD" tvg-logo="https:/docdog.top/logo/countries/australia/sbs-food-au.png" group-title="OCEA | AUSTRALIA VIP",AU: SBS FOOD
+http://31.43.191.125:8080/restream/restream/25041
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS VICELAND" tvg-logo="https:/docdog.top/logo/countries/australia/sbs-viceland-au.png" group-title="OCEA | AUSTRALIA VIP",AU: SBS VICELAND
+http://31.43.191.125:8080/restream/restream/25042
+#EXTINF:-1 tvg-id="" tvg-name="AU: SBS WORLD MOVIES" tvg-logo="https:/docdog.top/logo/countries/australia/sbs-world-movies-au.png" group-title="OCEA | AUSTRALIA VIP",AU: SBS WORLD MOVIES
+http://31.43.191.125:8080/restream/restream/25043
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY NEWS EXTRA" tvg-logo="https:/docdog.top/logo/countries/australia/sky-news-extra-au.png" group-title="OCEA | AUSTRALIA VIP",AU: SKY NEWS EXTRA
+http://31.43.191.125:8080/restream/restream/25044
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY RACING 1" tvg-logo="https:/docdog.top/logo/countries/australia/sky-racing-1-au.png" group-title="OCEA | AUSTRALIA VIP",AU: SKY RACING 1
+http://31.43.191.125:8080/restream/restream/25045
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY RACING 2" tvg-logo="https:/docdog.top/logo/countries/australia/sky-racing-2-au.png" group-title="OCEA | AUSTRALIA VIP",AU: SKY RACING 2
+http://31.43.191.125:8080/restream/restream/25046

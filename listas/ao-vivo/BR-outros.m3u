@@ -1,0 +1,625 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 01
+http://64.31.23.207:80/96795792/50165825/1882617.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 01
+http://64.31.23.207:80/96795792/50165825/1832882.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 02
+http://64.31.23.207:80/96795792/50165825/1882618.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 03
+http://64.31.23.207:80/96795792/50165825/1882619.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 04
+http://64.31.23.207:80/96795792/50165825/1882620.ts
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedecanais.sh/logos/canais/cinesky.png" group-title="CANAIS = SKY",Cine SKY 05
+http://64.31.23.207:80/96795792/50165825/1882621.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 04
+http://64.31.23.207:80/96795792/50165825/5676618.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 03
+http://64.31.23.207:80/96795792/50165825/5676619.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 02
+http://64.31.23.207:80/96795792/50165825/5676620.ts
+#EXTINF:-1 tvg-id="" tvg-name="VERDADES SECRETAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VERDADES SECRETAS 01
+http://64.31.23.207:80/96795792/50165825/5676621.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAMP 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VAMP 02
+http://64.31.23.207:80/96795792/50165825/5676625.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAMP 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",VAMP 01
+http://64.31.23.207:80/96795792/50165825/5676626.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA E PAIXAO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",TERRA E PAIXAO 02
+http://64.31.23.207:80/96795792/50165825/5676641.ts
+#EXTINF:-1 tvg-id="" tvg-name="TERRA E PAIXAO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",TERRA E PAIXAO 01
+http://64.31.23.207:80/96795792/50165825/5676642.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",REBELDE 03
+http://64.31.23.207:80/96795792/50165825/5676669.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",REBELDE 02
+http://64.31.23.207:80/96795792/50165825/5676670.ts
+#EXTINF:-1 tvg-id="" tvg-name="REBELDE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",REBELDE 01
+http://64.31.23.207:80/96795792/50165825/5676671.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANTANAL 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",PANTANAL 02
+http://64.31.23.207:80/96795792/50165825/5676691.ts
+#EXTINF:-1 tvg-id="" tvg-name="PANTANAL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",PANTANAL 01
+http://64.31.23.207:80/96795792/50165825/5676692.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 04" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 04
+http://64.31.23.207:80/96795792/50165825/5676694.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 03
+http://64.31.23.207:80/96795792/50165825/5676695.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 02
+http://64.31.23.207:80/96795792/50165825/5676696.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS DEZ MANDAMENTOS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",OS DEZ MANDAMENTOS 01
+http://64.31.23.207:80/96795792/50165825/5676697.ts
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O REI DO GADO 02
+http://64.31.23.207:80/96795792/50165825/5676698.ts
+#EXTINF:-1 tvg-id="" tvg-name="O REI DO GADO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O REI DO GADO 01
+http://64.31.23.207:80/96795792/50165825/5676699.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CLONE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O CLONE 02
+http://64.31.23.207:80/96795792/50165825/5676700.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CLONE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O CLONE 01
+http://64.31.23.207:80/96795792/50165825/5676701.ts
+#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 03" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O BEIJO DO VAMPIRO 03
+http://64.31.23.207:80/96795792/50165825/5676702.ts
+#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O BEIJO DO VAMPIRO 02
+http://64.31.23.207:80/96795792/50165825/5676703.ts
+#EXTINF:-1 tvg-id="" tvg-name="O BEIJO DO VAMPIRO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",O BEIJO DO VAMPIRO 01
+http://64.31.23.207:80/96795792/50165825/5676704.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",MARIA DO BAIRRO 02
+http://64.31.23.207:80/96795792/50165825/5676719.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARIA DO BAIRRO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",MARIA DO BAIRRO 01
+http://64.31.23.207:80/96795792/50165825/5676720.ts
+#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",LACOS DE FAMILIA 02
+http://64.31.23.207:80/96795792/50165825/5676732.ts
+#EXTINF:-1 tvg-id="" tvg-name="LACOS DE FAMILIA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",LACOS DE FAMILIA 01
+http://64.31.23.207:80/96795792/50165825/5676733.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",KUBANACAN 02
+http://64.31.23.207:80/96795792/50165825/5676734.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUBANACAN 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",KUBANACAN 01
+http://64.31.23.207:80/96795792/50165825/5676735.ts
+#EXTINF:-1 tvg-id="" tvg-name="GENESIS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",GENESIS 02
+http://64.31.23.207:80/96795792/50165825/5676750.ts
+#EXTINF:-1 tvg-id="" tvg-name="GENESIS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",GENESIS 01
+http://64.31.23.207:80/96795792/50165825/5676751.ts
+#EXTINF:-1 tvg-id="" tvg-name="DA COR DO PECADO 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",DA COR DO PECADO 02
+http://64.31.23.207:80/96795792/50165825/5676782.ts
+#EXTINF:-1 tvg-id="" tvg-name="DA COR DO PECADO 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",DA COR DO PECADO 01
+http://64.31.23.207:80/96795792/50165825/5676783.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHOCOLATE COM PIMENTA 02
+http://64.31.23.207:80/96795792/50165825/5676790.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHOCOLATE COM PIMENTA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHOCOLATE COM PIMENTA 01
+http://64.31.23.207:80/96795792/50165825/5676791.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHIQUITITAS 02
+http://64.31.23.207:80/96795792/50165825/5676792.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHIQUITITAS 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHIQUITITAS 01
+http://64.31.23.207:80/96795792/50165825/5676793.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEIAS DE CHARME 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHEIAS DE CHARME 02
+http://64.31.23.207:80/96795792/50165825/5676794.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEIAS DE CHARME 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",CHEIAS DE CHARME 01
+http://64.31.23.207:80/96795792/50165825/5676795.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVENIDA BRASIL 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AVENIDA BRASIL 02
+http://64.31.23.207:80/96795792/50165825/5676822.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVENIDA BRASIL 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AVENIDA BRASIL 01
+http://64.31.23.207:80/96795792/50165825/5676823.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MAE 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AMOR DE MAE 02
+http://64.31.23.207:80/96795792/50165825/5676824.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMOR DE MAE 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",AMOR DE MAE 01
+http://64.31.23.207:80/96795792/50165825/5676825.ts
+#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A USURPADORA 02
+http://64.31.23.207:80/96795792/50165825/5676826.ts
+#EXTINF:-1 tvg-id="" tvg-name="A USURPADORA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A USURPADORA 01
+http://64.31.23.207:80/96795792/50165825/5676827.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TERRA PROMETIDA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A TERRA PROMETIDA 02
+http://64.31.23.207:80/96795792/50165825/5676828.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TERRA PROMETIDA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A TERRA PROMETIDA 01
+http://64.31.23.207:80/96795792/50165825/5676829.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FORCA DO QUERER 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FORCA DO QUERER 02
+http://64.31.23.207:80/96795792/50165825/5676830.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FORCA DO QUERER 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FORCA DO QUERER 01
+http://64.31.23.207:80/96795792/50165825/5676831.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAVORITA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FAVORITA 02
+http://64.31.23.207:80/96795792/50165825/5676832.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAVORITA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A FAVORITA 01
+http://64.31.23.207:80/96795792/50165825/5676833.ts
+#EXTINF:-1 tvg-id="" tvg-name="A ESCRAVA ISAURA 02" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A ESCRAVA ISAURA 02
+http://64.31.23.207:80/96795792/50165825/5676834.ts
+#EXTINF:-1 tvg-id="" tvg-name="A ESCRAVA ISAURA 01" tvg-logo="http://i.imgur.com/XlYKNTb.png" group-title="24HRS =  NOVELAS",A ESCRAVA ISAURA 01
+http://64.31.23.207:80/96795792/50165825/5676835.ts
+#EXTINF:-1 tvg-id="" tvg-name="101 DÁLMATAS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",101 DÁLMATAS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169265.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 ESPIÃS DEMAIS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",3 ESPIÃS DEMAIS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169266.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",3 PALAVRINHAS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169203.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",3 PALAVRINHAS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169267.ts
+#EXTINF:-1 tvg-id="" tvg-name="4 CONTRA APOCALIPSE 24 HS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",4 CONTRA APOCALIPSE 24 HS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169268.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A CASA DO MICKEY
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169269.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A CASA DO MICKEY MOUSE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169204.ts
+#EXTINF:-1 tvg-id="" tvg-name="A GUARDA DO LEÃO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A GUARDA DO LEÃO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169270.ts
+#EXTINF:-1 tvg-id="" tvg-name="A HORA DE AVENTURA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A HORA DE AVENTURA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169273.ts
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A PANTERA COR DE ROSA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169205.ts
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A PEQUENA SEREIA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169271.ts
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",A VACA E O FRANGO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169272.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 01" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",ALADIN 01
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169274.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 02" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",ALADIN 02
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169275.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMERICAN DAD" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AMERICAN DAD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMANIACS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",ANIMANIACS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169276.ts
+#EXTINF:-1 tvg-id="" tvg-name="APENAS UM SHOW" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",APENAS UM SHOW
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169277.ts
+#EXTINF:-1 tvg-id="" tvg-name="AQUAMAN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AQUAMAN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169207.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS AVENTURAS DE JACKIE CHAN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169208.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE JACKIE CHAN 02" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS AVENTURAS DE JACKIE CHAN 02
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169279.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DE SUNNY BUNNIES 24 HS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS AVENTURAS DE SUNNY BUNNIES 24 HS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169282.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS MENINAS SUPER PODEROSAS 24 HS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS MENINAS SUPER PODEROSAS 24 HS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169280.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS TARTARUGAS NINJA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169263.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS TARTARUGAS NINJAS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS TARTARUGAS NINJAS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169281.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS VISÕES DA RAVEN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",AS VISÕES DA RAVEN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169209.ts
+#EXTINF:-1 tvg-id="" tvg-name="B THE BEGINNING 24 HS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",B THE BEGINNING 24 HS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169283.ts
+#EXTINF:-1 tvg-id="" tvg-name="BABY LOONEY TOONES" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BABY LOONEY TOONES
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169284.ts
+#EXTINF:-1 tvg-id="" tvg-name="BARBIE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BARBIE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169285.ts
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN DO FUTURO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BATMAN DO FUTURO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169286.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEBÊ OGGY 24 HS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BEBÊ OGGY 24 HS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169287.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BEN 10
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169262.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BEN 10
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169288.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10 OMINIVERSE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BEN 10 OMINIVERSE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169289.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG BANG THEORY" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BIG BANG THEORY
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169211.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 02" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BOB ESPONJA 02
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169290.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 03" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BOB ESPONJA 03
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169291.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOBS BURGERS 01" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BOBS BURGERS 01
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169292.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOBS BURGERS 02" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BOBS BURGERS 02
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169293.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOKU NO HERO ACADEMIA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BOKU NO HERO ACADEMIA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169212.ts
+#EXTINF:-1 tvg-id="" tvg-name="BUBBLE GUPPIES" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",BUBBLE GUPPIES
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169294.ts
+#EXTINF:-1 tvg-id="" tvg-name="CADILLACS E DINOSSAUROS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CADILLACS E DINOSSAUROS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169213.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO 1" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CAVALEIROS DO ZODIACO 1
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169214.ts
+#EXTINF:-1 tvg-id="canal.do.criador.br" tvg-name="CAVERNA DO DRAGÃAO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CAVERNA DO DRAGÃAO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169296.ts
+#EXTINF:-1 tvg-id="canal.do.criador.br" tvg-name="CAVERNA DO DRAGÃO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CAVERNA DO DRAGÃO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169215.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHAPOLIN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169216.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAPOLIN COLORADO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHAPOLIN COLORADO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169217.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHAVES
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169218.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHAVES
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169219.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES ANIMADO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHAVES ANIMADO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169297.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHAVES DESENHO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169220.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEFINHO DE VOLTA AO BERÇO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHEFINHO DE VOLTA AO BERÇO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169298.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEFINHO DE VOLTA AOS NEGÓCIOS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CHEFINHO DE VOLTA AOS NEGÓCIOS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169299.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLEO E CUQUIN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CLEO E CUQUIN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169300.ts
+#EXTINF:-1 tvg-id="" tvg-name="COCORICÓ" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",COCORICÓ
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169301.ts
+#EXTINF:-1 tvg-id="" tvg-name="COELHO RICOCHETE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",COELHO RICOCHETE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169302.ts
+#EXTINF:-1 tvg-id="" tvg-name="CORRIDA MALUCA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",CORRIDA MALUCA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169303.ts
+#EXTINF:-1 tvg-id="" tvg-name="DESENCANTO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DESENCANTO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169264.ts
+#EXTINF:-1 tvg-id="" tvg-name="DESENHOS BIBLICOS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DESENHOS BIBLICOS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169222.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DOIS HOMENS E MEIO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169221.ts
+#EXTINF:-1 tvg-id="" tvg-name="DORA A AVENTUREIRA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DORA A AVENTUREIRA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169261.ts
+#EXTINF:-1 tvg-id="" tvg-name="DORA AVENTUREIRA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DORA AVENTUREIRA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169304.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOUG" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DOUG
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169305.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 1" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DRAGON BALL 1
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169224.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL GT" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DRAGON BALL GT
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169223.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DRAGON BALL SUPER
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169225.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DRAGON BALL Z
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169226.ts
+#EXTINF:-1 tvg-id="" tvg-name="DRAGÕES CORRIDA ATÉ O LIMITE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DRAGÕES CORRIDA ATÉ O LIMITE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169306.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUCK TALES OS CAÇADORES DE AVENTURAS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",DUCK TALES OS CAÇADORES DE AVENTURAS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169307.ts
+#EXTINF:-1 tvg-id="" tvg-name="EU A PATROA E AS CRIANÇAS 1" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",EU A PATROA E AS CRIANÇAS 1
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169228.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA DINOUSSAUROS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",FAMILIA DINOUSSAUROS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169230.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="FINAL SPACE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",FINAL SPACE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169308.ts
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",FORMIGA ATOMICA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169309.ts
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATÔMICA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",FORMIGA ATÔMICA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169231.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALINHA PINTADINHA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",GALINHA PINTADINHA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169232.ts
+#EXTINF:-1 tvg-id="" tvg-name="GATO FELIX" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",GATO FELIX
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169233.ts
+#EXTINF:-1 tvg-id="" tvg-name="HULK" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",HULK
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169259.ts
+#EXTINF:-1 tvg-id="" tvg-name="ICARLY REVIVAL" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",ICARLY REVIVAL
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169235.ts
+#EXTINF:-1 tvg-id="" tvg-name="JASPION" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",JASPION
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169236.ts
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",JIRAYA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169258.ts
+#EXTINF:-1 tvg-id="" tvg-name="MR. BEAN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",MR. BEAN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169240.ts
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO SHIPPUDEN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",NARUTO SHIPPUDEN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169241.ts
+#EXTINF:-1 tvg-id="" tvg-name="O CÃO COVARDE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",O CÃO COVARDE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169260.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",OS SIMPSONS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169244.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS SMURFS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",OS SMURFS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169245.ts
+#EXTINF:-1 tvg-id="" tvg-name="OS TRAPALHÕES" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",OS TRAPALHÕES
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169246.ts
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",PATRULHA CANINA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169247.ts
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 1" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",PICA PAU 1
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169248.ts
+#EXTINF:-1 tvg-id="" tvg-name="SITIO DO PICA PAU AMARELO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",SITIO DO PICA PAU AMARELO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169256.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMALLVILLE" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",SMALLVILLE
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169255.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPIDER MAN" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",SPIDER MAN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169254.ts
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",TODO MUNDO ODEIA O CHRIS
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169249.ts
+#EXTINF:-1 tvg-id="" tvg-name="TURMA DA MÔNICA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",TURMA DA MÔNICA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169251.ts
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDAÇO" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",UM MALUCO NO PEDAÇO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169252.ts
+#EXTINF:-1 tvg-id="" tvg-name="VAI QUE COLA" tvg-logo="http://32q0d.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS: 24 HORAS ✨",VAI QUE COLA
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169253.ts
+#EXTINF:11,AMC HD
+http://45.185.11.126:8000/play/a06s/index.m3u8
+#EXTINF:0,AXN HD
+http://45.185.11.126:8000/play/a0ao/index.m3u8
+#EXTINF:0,Adult Swim HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06m/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a09k/index.m3u8
+#EXTINF:0,BIS HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07w/index.m3u8
+#EXTINF:0,BM&C HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06i/index.m3u8
+#EXTINF:0,Band News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a076/index.m3u8
+#EXTINF:0,Band Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05o/index.m3u8
+#EXTINF:0,CNN Brasil Money HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a6/index.m3u8
+#EXTINF:0,CNN International HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ap/index.m3u8
+#EXTINF:0,Canal Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06x/index.m3u8
+#EXTINF:0,Canal Sony HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0an/index.m3u8
+#EXTINF:0,Canal UOL HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a4/index.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a087/index.m3u8
+#EXTINF:0,Cartoonito HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ae/index.m3u8
+#EXTINF:0,Cinemax HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a081/index.m3u8
+#EXTINF:0,Claro TV+ 4K
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06f/index.m3u8
+#EXTINF:0,Combate HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a073/index.m3u8
+#EXTINF:0,DUMDUM HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a078/index.m3u8
+#EXTINF:0,Disc. Home & Health HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07y/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ac/index.m3u8
+#EXTINF:0,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0ad/index.m3u8
+#EXTINF:0,Discovery Science HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a077/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a085/index.m3u8
+#EXTINF:0,Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07z/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a086/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05m/index.m3u8
+#EXTINF:0,ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05n/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a084/index.m3u8
+#EXTINF:0,Food Network HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06j/index.m3u8
+#EXTINF:0,GE TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08v/index.m3u8
+#EXTINF:0,GNT HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a079/index.m3u8
+#EXTINF:0,GloboNews HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08d/index.m3u8
+#EXTINF:0,Globoplay Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06w/index.m3u8
+#EXTINF:0,Gloob HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07v/index.m3u8
+#EXTINF:0,Gloobinho HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a071/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08q/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08n/index.m3u8
+#EXTINF:0,HBO MUNDI HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a082/index.m3u8
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08s/index.m3u8
+#EXTINF:0,HBO Signature HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08r/index.m3u8
+#EXTINF:0,HBO XTREME HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a083/index.m3u8
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08p/index.m3u8
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08o/index.m3u8
+#EXTINF:0,HGTV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a074/index.m3u8
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0al/index.m3u8
+#EXTINF:0,ID HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a089/index.m3u8
+#EXTINF:0,JP News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a1/index.m3u8
+#EXTINF:0,Lifetime HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06l/index.m3u8
+#EXTINF:0,Megapix HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a057/index.m3u8
+#EXTINF:0,Modo Viagem HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07u/index.m3u8
+#EXTINF:0,Multishow HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07a/index.m3u8
+#EXTINF:0,OFF HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07t/index.m3u8
+#EXTINF:0,Paramount+ 4
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0aq/index.m3u8
+#EXTINF:0,Playboy TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a09n/index.m3u8
+#EXTINF:0,Premiere 2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06h/index.m3u8
+#EXTINF:0,Premiere 3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0av/index.m3u8
+#EXTINF:0,Premiere 4 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07b/index.m3u8
+#EXTINF:0,Premiere 5 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07c/index.m3u8
+#EXTINF:0,Premiere 6 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05j/index.m3u8
+#EXTINF:0,Premiere 7 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05k/index.m3u8
+#EXTINF:0,Premiere 8 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05l/index.m3u8
+#EXTINF:0,Premiere Clubes HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06g/index.m3u8
+#EXTINF:0,Record News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a2/index.m3u8
+#EXTINF:0,SBT News HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a7/index.m3u8
+#EXTINF:0,Space HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08b/index.m3u8
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06o/index.m3u8
+#EXTINF:0,TIMES | EXCLUSIVO CNBC
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0a5/index.m3u8
+#EXTINF:0,TLC HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0aa/index.m3u8
+#EXTINF:0,TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a088/index.m3u8
+#EXTINF:0,TNT Sports HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0bi/index.m3u8
+#EXTINF:0,TNT SØries HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08a/index.m3u8
+#EXTINF:0,TV RÆ Tim Bum HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a080/index.m3u8
+#EXTINF:0,Telecine Action HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a058/index.m3u8
+#EXTINF:0,Telecine Cult HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05a/index.m3u8
+#EXTINF:0,Telecine Fun HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a059/index.m3u8
+#EXTINF:0,Telecine Pipoca HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08g/index.m3u8
+#EXTINF:0,Telecine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08e/index.m3u8
+#EXTINF:0,Telecine Touch HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08f/index.m3u8
+#EXTINF:0,Trace Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08l/index.m3u8
+#EXTINF:0,Travel Food & Drinks HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a07x/index.m3u8
+#EXTINF:0,USA HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06k/index.m3u8
+#EXTINF:0,Universal Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08m/index.m3u8
+#EXTINF:0,Universal Reality HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a08c/index.m3u8
+#EXTINF:0,Universal TV HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0af/index.m3u8
+#EXTINF:0,Warner Channel HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a0am/index.m3u8
+#EXTINF:0,Woohoo HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a075/index.m3u8
+#EXTINF:0,sportv HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05g/index.m3u8
+#EXTINF:0,sportv2 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a05f/index.m3u8
+#EXTINF:0,sportv3 HD
+#EXTVLCOPT:network-caching=1000
+http://45.185.11.126:8000/play/a06v/index.m3u8
+#EXTINF:-1,US: ACC Network
+http://206.212.244.63/2486/index.m3u8
+#EXTINF:-1,US: Big Ten Network
+http://206.212.244.63/2489/index.m3u8
+#EXTINF:-1,US: SEC Network
+http://206.212.244.63/2511/index.m3u8
+#EXTINF:-1,USA | ACCUWEATHER
+http://206.212.244.63/3/index.m3u8
+#EXTINF:-1,USA | ACCUWEATHER
+http://206.212.244.63/674/index.m3u8
+#EXTINF:-1,USA | ESPN
+http://206.212.244.63/59/index.m3u8
+#EXTINF:-1,PT: EUROSPORT 1
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99481
+#EXTINF:-1,PT: EUROSPORT 2
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99482
+#EXTINF:-1,PT: SPORT TV +
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99483
+#EXTINF:-1,PT: SPORT TV 1
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99484
+#EXTINF:-1,PT: SPORT TV 2
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99485
+#EXTINF:-1,PT: SPORT TV 3
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99486
+#EXTINF:-1,PT: SPORT TV 4
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99487
+#EXTINF:-1,PT: SPORT TV 5
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99488
+#EXTINF:-1,PT: SPORT TV 6
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99489
+#EXTINF:-1,PT: SPORTING TV
+http://31.43.191.125:8080/VIP014391751994706511/b425720d22ff/99490
+#EXTINF:-1,Eurosport 2  HD
+http://89.44.231.117:7000/eurosport2
+#EXTINF:-1,Eurosport HD
+http://89.44.231.117:7000/eurosport
+#EXTINF:-1,Eurosport 2 HD
+http://89.44.231.73:7000/eurosport2
+#EXTINF:-1,Eurosport HD
+http://89.44.231.73:7000/eurosport
+#EXTINF:-1,Eurosport 2 HD
+http://89.44.231.115:7000/eurosport2
+#EXTINF:-1,Eurosport HD
+http://89.44.231.115:7000/eurosport
+#EXTINF:-1 tvg-id="" tvg-name="Boiadeiro de Barretos" tvg-logo="" group-title="Canais | Eventos",Boiadeiro de Barretos
+http://dns.explouddev.com:80/632270679/F823j7133R/645837
+#EXTINF:-1 tvg-id="" tvg-name="Grand Theft Auto VI" tvg-logo="http://beststorage4you.com/logoscanais/gta6.jpg" group-title="Canais | Eventos",Grand Theft Auto VI
+http://dns.explouddev.com:80/632270679/F823j7133R/646583
