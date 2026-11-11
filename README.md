@@ -101,11 +101,6 @@ Tudo está na pasta [`listas/`](listas), separado por tipo e país. Os arquivos 
 | `cursos` | 2.168 | 0.6 MB | [baixar](https://raw.githubusercontent.com/ricardschmidt/Iptv-Brasil-2026/master/listas/outros/cursos.m3u) |
 | `outros` | 46 | 0.0 MB | [baixar](https://raw.githubusercontent.com/ricardschmidt/Iptv-Brasil-2026/master/listas/outros/outros.m3u) |
 
-### 🔞 Adulto (+18)
-
-| Lista | Itens | Tamanho | Link (copie e cole no app) |
-|---|---:|---:|---|
-| `ADULTO` | 6.202 | 3.6 MB | [baixar](https://raw.githubusercontent.com/ricardschmidt/Iptv-Brasil-2026/master/listas/adulto/ADULTO.m3u) |
 
 ## 📲 Aplicativos
 
